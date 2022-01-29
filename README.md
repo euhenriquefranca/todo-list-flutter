@@ -1,7 +1,8 @@
 # Todo List
 
-<img src="TodoListImage.png" alt="alt text" width="400"/>
-
+<p align="center">
+  <img src="TodoListImage.png" alt="alt text" width="400"/>
+</p>
 #
 A new Flutter project.
 
